@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<list>
+  <model.Questao>
+    <pergunta>Qual e o personagem do folclore brasileiro que tem uma perna so?</pergunta>
+    <op1>Cuca</op1>
+    <op2>Negrinho do pastoreiro</op2>
+    <op3>Saci-perere</op3>
+    <opCorreta>Saci-perere</opCorreta>
+  </model.Questao>
+  <model.Questao>
+    <pergunta>Quem e a namorada do Mickey? </pergunta>
+    <op1>Minnie</op1>
+    <op2>Olivia Palito</op2>
+    <op3>Margarida</op3>
+    <opCorreta>Minnie</opCorreta>
+  </model.Questao>
+  <model.Questao>
+    <pergunta>Quem proclamou a republica no Brasil em 1889?</pergunta>
+    <op1>Michel Temer</op1>
+    <op2>Marechal Deodoro </op2>
+    <op3>Dom Pedro II</op3>
+    <opCorreta>Marechal Deodoro </opCorreta>
+  </model.Questao>
+  <model.Questao>
+    <pergunta>Quem fundou a fabrica de automoveis Ford?</pergunta>
+    <op1>Harrison Ford</op1>
+    <op2>Gerald Ford</op2>
+    <op3>Henry Ford</op3>
+    <opCorreta>Henry Ford</opCorreta>
+  </model.Questao>
+  <model.Questao>
+    <pergunta>A agua ferve a quantos graus centigrados?</pergunta>
+    <op1>200 Graus</op1>
+    <op2>100 Graus</op2>
+    <op3>120 Graus</op3>
+    <opCorreta>100 Graus</opCorreta>
+  </model.Questao>
+  <model.Questao>
+    <pergunta>Quando e comemorado o dia da independencia do Brasil?</pergunta>
+    <op1>21 de Abril</op1>
+    <op2>7 de Setembro</op2>
+    <op3>12 de Novembro</op3>
+    <opCorreta>7 de Setembro</opCorreta>
+  </model.Questao>
+  <model.Questao>
+    <pergunta>Quem foi o criador dos personagens Pedrinho, Narizinho e Emilia?</pergunta>
+    <op1>Mauricio de souza</op1>
+    <op2>Monteiro Lobato</op2>
+    <op3>Machado de Assis</op3>
+    <opCorreta>Monteiro Lobato</opCorreta>
+  </model.Questao>
+</list>

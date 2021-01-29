@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="source"/>
+	<classpathentry kind="src" path="libs"/>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="I:/Programação/Algoritimos/jogo-mpoo-encontre-master/libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="I:/Programação/Algoritimos/jogo-mpoo-encontre-master/libs/xstream-1.4.11.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
